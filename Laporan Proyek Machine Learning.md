@@ -204,6 +204,9 @@ Dalam kasus *Small Data & High Dimensionality*, teknik preprocessing (seleksi fi
 - [x] Mengumpulkan lebih banyak data (Sangat direkomendasikan untuk stabilitas model).
 - [ ] Mencoba teknik *Dimensionality Reduction* lain seperti PCA atau Autoencoders.
 - [ ] Eksperimen dengan *Transfer Learning* jika tersedia model pre-trained untuk struktur kimia.
+- [x] Mencoba Arsitektur DL Lain.
+- [x] Advanced Feature Engineering
+- [x] Tuning Model lebih lanjut
 
 ---
 
@@ -238,6 +241,4 @@ joblib
 tensorflow
 
 ```
-
----
 ---
