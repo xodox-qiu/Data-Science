@@ -31,11 +31,14 @@ Mengatasi Curse of Dimensionality pada Prediksi Toksisitas Senyawa Kimia: Pendek
 project/
 │
 ├── data/
+│   └── toxicity_raw_data.csv
+│   └── toxicity_processed_data.csv
 │
 ├── notebooks/
 │   └── ML_Project_234311040.ipynb
 │
 ├── src/
+│   └── ML_234311040.py
 │   
 ├── models/
 │   ├── model_advanced.pkl
@@ -50,6 +53,7 @@ project/
 │
 ├── Laporan Proyek Machine Learning.md
 ├── Checklist Submit.md
+├── LICENSE
 ├── requirements.txt
 ├── .gitignore
 └── README.md
