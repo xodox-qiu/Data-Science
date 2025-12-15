@@ -1,6 +1,6 @@
 ## INFORMASI PROYEK
 
-**Judul Proyek:** Mengatasi Curse of Dimensionality pada Prediksi Toksisitas Senyawa Kimia: Pendekatan Seleksi Fitur dan Deep Learning
+**Judul Proyek:** Mengatasi Curse of Dimensionality pada Klasifikasi Toksisitas Senyawa Kimia: Pendekatan Seleksi Fitur dan Deep Learning
 
 **Nama Mahasiswa:** Frezy Ananta Diva Tertiya
 **NIM:** 234311040
@@ -8,8 +8,8 @@
 **Mata Kuliah:** Data Science  
 **Dosen Pengampu:** Gus Nanang Syaifuddiin, S.Kom., M.Kom.
 **Tahun Akademik:** 2025  
-**Link GitHub Repository:** https://github.com/xodox-qiu/Data-Science
-**Link Video Pembahasan:** 
+**Link GitHub Repository:** https://github.com/xodox-qiu/Data-Science  
+**Link Video Pembahasan:** https://youtu.be/8ONC6rTh4_A
 
 ---
 
@@ -93,15 +93,15 @@ Karena jumlah fitur sangat banyak (1203), berikut adalah ringkasannya:
 ### 4.4 Exploratory Data Analysis (EDA)
 
 #### Visualisasi 1: Distribusi Kelas Target
-![Distribusi Kelas](images/viz1_class_distribution.png)
+![Distribusi Kelas](images/viz1_class_distribution.png)  
 **Insight:** Grafik menunjukkan ketidakseimbangan jumlah sampel. Kelas 'NonToxic' mendominasi, sehingga akurasi saja tidak bisa dijadikan patokan performa.
 
 #### Visualisasi 2: Heatmap Korelasi (30 Fitur Terpilih)
-![Heatmap](images/viz2_correlation.png)
+![Heatmap](images/viz2_correlation.png)  
 **Insight:** Setelah seleksi fitur, heatmap menunjukkan korelasi yang lebih terstruktur antar fitur terpilih dengan target, menghilangkan *noise* dari ribuan fitur yang tidak relevan.
 
-#### Visualisasi 3: Perbandingan Model
-![Model Comparison](images/viz4_model_comparison.png)
+#### Visualisasi 3: Perbandingan Model  
+![Model Comparison](images/viz4_model_comparison.png)  
 **Insight:** Terlihat grafik perbandingan model, dengan akurasi dan juga f1-score tertinggi adalah Deep Learning, sehingga dapat disimpulkan jika model Deep Learning merupakan model terbaik untuk penanganan data Toxicity ini.
 
 ---

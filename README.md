@@ -1,10 +1,10 @@
 # 📘 Judul Proyek
-Mengatasi Curse of Dimensionality pada Prediksi Toksisitas Senyawa Kimia: Pendekatan Seleksi Fitur dan Deep Learning
+Mengatasi Curse of Dimensionality pada Klasifikasi Toksisitas Senyawa Kimia: Pendekatan Seleksi Fitur dan Deep Learning
 
 ## 👤 Informasi
 - **Nama:** Frezy Ananta Diva Tertiya  
-- **Repo:** https://github.com/xodox-qiu/Data-Science
-- **Video:** [Link Video Penjelasan Proyek Anda]  
+- **Repo:** https://github.com/xodox-qiu/Data-Science  
+- **Video:** https://youtu.be/8ONC6rTh4_A
 
 ---
 
