@@ -38,7 +38,6 @@ project/
 │   └── ML_Project_234311040.ipynb
 │
 ├── src/
-│   └── ML_234311040.py
 │   
 ├── models/
 │   ├── model_advanced.pkl
