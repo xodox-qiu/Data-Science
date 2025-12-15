@@ -38,6 +38,14 @@ project/
 │   └── ML_Project_234311040.ipynb
 │
 ├── src/
+│   └── Data Import & MakeDir.py
+│   └── Data Loading & Cleaning.py
+│   └── Data Splitting.py
+│   └── Data Transformation.py
+│   └── EDA Visualization.py
+│   └── Evaluation & Comparison
+│   └── Feature Engineering.py
+│   └── Model Training.py
 │   
 ├── models/
 │   ├── model_advanced.pkl
