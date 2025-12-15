@@ -185,7 +185,7 @@ Karena dataset *imbalanced*, Akurasi saja menyesatkan.
 *(Catatan: Nilai angka diisi manual sesuai hasil run terakhir di notebook)*
 
 ### 7.3 Analisis Hasil
-1. **Model Terbaik:** [Sebutkan Model, misal: Random Forest/DL] menunjukkan keseimbangan terbaik antara mengenali kelas mayoritas dan minoritas.
+1. **Model Terbaik:** Deep Learning menggunakan Multilayer Perceptron menunjukkan keseimbangan terbaik antara mengenali kelas mayoritas dan minoritas.
 2. **Performa Kelas Minoritas:** Berkat `class_weight` dan seleksi fitur, model mampu memberikan prediksi pada kelas Toxic (tidak sekadar menebak 0 semua), yang tercermin dari nilai F1-Score yang positif (>0).
 3. **Trade-off:** Deep Learning membutuhkan waktu komputasi lebih lama dan penyetelan *dropout* yang hati-hati. Untuk dataset sekecil ini (171 baris), Random Forest seringkali memberikan hasil yang kompetitif dengan kompleksitas yang lebih rendah.
 
